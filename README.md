@@ -1,78 +1,45 @@
-# Nhat Nguyen | Portfolio
+# Nhat Nguyen
 
-A modern, responsive personal portfolio website designed to showcase AI-focused software engineering projects and skills. The site features a sleek glassmorphism aesthetic, interactive elements, and a smooth user experience.
+**AI-focused Software Engineering Student**
 
-**[🌐 Live Demo](https://antialberteinstein.github.io)**
+AI-focused software engineering student with hands-on experience in computer vision, LLM system integration, and AI agent development. Interested in building practical AI systems with robust backend foundations and studying techniques for improving AI capabilities.
 
+**[🌐 Visit my Homepage](https://antialberteinstein.github.io)**
 ![Portfolio Preview](res/preview.png)
-*(Note: Add a `preview.png` to the `res` folder to see the preview image here)*
 
-## 🚀 Overview
+---
 
-This portfolio serves as a central hub for my work, highlighting my expertise in:
--   **AI & Computer Vision**: Face recognition systems, embedding-based retrieval.
--   **LLM Integration**: Local inference with `llama.cpp`, RAG systems, and agent orchestration.
--   **Backend Systems**: Async processing, job queues, and API design.
+## Skills & Knowledge
 
-## ✨ Key Features
+*   **Programming Languages:** [Python](/cs-notes/python/), [C/C++](/cs-notes/cpp/), [Julia](/cs-notes/julia/)
+*   **AI & Machine Learning:** [Computer Vision](/cs-notes/computer-vision/), [Generative AI](/cs-notes/generative-ai/), [LLMs](/cs-notes/llms/)
+*   **Other:** [IoT](/cs-notes/iot/)
 
--   **Modern Design**: Implements a "Glassmorphism" UI style with blurred backgrounds and transparent elements.
--   **Responsive Layout**: Fully responsive design that adapts seamlessly to desktop, tablet, and mobile devices.
--   **Interactive Elements**:
-    -   **Typing Effect**: Dynamic text animation in the hero section.
-    -   **Smooth Scrolling**: Navigation links glide to the corresponding section.
-    -   **Mobile Navigation**: Custom burger menu with animation for smaller screens.
-    -   **Dynamic Header**: Header appearance changes upon scrolling.
--   **Project Showcase**: Dedicated section to display projects with descriptions and links.
+*(Click on the links above to view my notes and research on these topics).*
 
-## 🛠️ Technologies Used
+---
 
--   **HTML5**: Semantic mark-up for structure.
--   **CSS3**:
-    -   CSS Variables for consistent theming.
-    -   Flexbox & Grid for layout.
-    -   Media Queries for responsiveness.
-    -   Keyframe animations.
--   **JavaScript (Vanilla)**: DOM manipulation, event handling, and interactivity logic.
--   **Font Awesome**: Iconography.
--   **Google Fonts**: Typography (Poppins).
+## Featured Projects
 
-## 📂 Project Structure
+### 1. [Hybrid AI Agent](https://github.com/antialberteinstein/HybridAIAgent)
+This project enhances SLM performance in multi-action decision tasks using a cosine similarity–based validation layer. The "VAR referees" mechanism provides semantic signals that improve final decision accuracy.
 
-```
-homepage/
-├── index.html          # Main HTML entry point
-├── README.md           # Project documentation
-├── references.txt      # Content reference source
-├── scripts/
-│   └── main.js         # JavaScript logic (navigation, animations)
-├── styles/
-│   └── main.css        # Global styles and responsive design
-└── res/                # Resources (images, backgrounds, icons)
-```
+### 2. [ChatToExplore](https://github.com/antialberteinstein/ChatToExplore)
+A web application using Java servlet with local LLM inference (llama.cpp) and async job queue that allows users to explore the Vietnamese's figures through a chatbot.
 
-## 📦 usage
+### 3. [IoT Face Recognition System](https://github.com/antialberteinstein/PBL5)
+Attendance system using InsightFace embeddings and adaptive online classifier exposed via Flask API.
 
-Since this is a static website, you can view it directly in your browser without any complex build process.
+---
 
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/antialberteinstein/homepage.git
-    ```
-2.  **Open the project**:
-    Navigate to the project folder and open `index.html` in your preferred web browser.
-
-    Or, if you use VS Code with the Live Server extension:
-    -   Right-click `index.html`
-    -   Select "Open with Live Server"
-
-## 📬 Contact
+## Contact
 
 Feel free to reach out for collaborations or just a friendly hello!
 
--   **Email**: [email@example.com](mailto:email@example.com)
--   **LinkedIn**: [Nhat Nguyen](https://www.linkedin.com)
--   **GitHub**: [antialberteinstein](https://github.com)
+*   **Email:** [nhatnguyen.blitz@gmail.com](mailto:nhatnguyen.blitz@gmail.com)
+*   **Facebook:** [fb.com/call.me.nnguyen](https://fb.com/call.me.nnguyen)
+*   **GitHub:** [github.com/antialberteinstein](https://github.com/antialberteinstein)
+*   **LinkedIn:** [linkedin.com](https://www.linkedin.com)
 
 ---
 © 2026 Nhat Nguyen. All rights reserved.
